@@ -30,3 +30,114 @@ footer{
     position: fixed;
 
 }
+@media screen and (max-width:980px){
+    .container{
+      width: 100%;
+    }
+    #crystals{
+        width: 100%;
+      }
+    #compRandomNum,
+    #loss,
+    #wins,
+    #scoreText,
+    #totalSum{
+      font-size: 18px;
+    }
+    #game-name{
+        font-size: 20px;
+    }
+    p{
+        font-size: 12;
+    }
+  }
+  @media screen and (max-width:768px){
+    body{
+    background-size: 100%;
+    }
+    .container{
+      width: 100%;
+    }
+    #crystals{
+      width: 100%;
+    }
+    #compRandomNum,
+    #loss,
+    #wins,
+    #scoreText,
+    #totalSum{
+      font-size: 18px;
+    }
+    #game-name{
+        font-size: 20px;
+    }
+    p{
+        font-size: 12;
+    }
+  }
+  @media screen and (max-width:640px){
+    .container{
+      width: 100%;
+    }
+    
+    #crystals{
+      width: 100%;
+    }
+    #compRandomNum,
+    #loss,
+    #wins,
+    #scoreText,
+    #totalSum{
+      font-size: 18px;
+    }
+    #game-name{
+        font-size: 20px;
+    }
+    p{
+        font-size: 12;
+    }
+  }
+  @media screen and (max-width:414px){
+    .container{
+      width: 100%;
+    }
+    #crystals{
+      width: 100%;
+    }
+    #compRandomNum,
+    #loss,
+    #wins,
+    #scoreText,
+    #totalSum{
+      font-size: 18px;
+    }
+    #game-name{
+        font-size: 20px;
+    }
+    p{
+        font-size: 12;
+    }
+    
+  }
+  
+  @media screen and (max-width:360px){
+    .container{
+      width: 100%;
+    }
+    #crystals{
+      width: 100%;
+    }
+    #compRandomNum,
+    #loss,
+    #wins,
+    #scoreText,
+    #totalSum{
+      font-size: 18px;
+    }
+    #game-name{
+        font-size: 20px;
+    }
+    p{
+        font-size: 12;
+    } 
+  }
