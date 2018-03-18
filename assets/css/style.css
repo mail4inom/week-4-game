@@ -42,13 +42,13 @@ footer{
     #wins,
     #scoreText,
     #totalSum{
-      font-size: 18px;
+      font-size: 26px;
     }
     #game-name{
-        font-size: 20px;
+        font-size: 30px;
     }
     p{
-        font-size: 12;
+        font-size: 8;
     }
   }
   @media screen and (max-width:768px){
@@ -66,16 +66,19 @@ footer{
     #wins,
     #scoreText,
     #totalSum{
-      font-size: 18px;
+      font-size: 26px;
     }
     #game-name{
-        font-size: 20px;
+        font-size: 30px;
     }
     p{
-        font-size: 12;
+        font-size: 8;
     }
   }
   @media screen and (max-width:640px){
+    body{
+        background-size: 100%;
+        }
     .container{
       width: 100%;
     }
@@ -88,16 +91,26 @@ footer{
     #wins,
     #scoreText,
     #totalSum{
-      font-size: 18px;
+      font-size: 26px;
     }
     #game-name{
-        font-size: 20px;
+        font-size: 30px;
     }
     p{
-        font-size: 12;
+        font-size: 8;
     }
   }
   @media screen and (max-width:414px){
+    body{
+        background-size: 100%;
+        }
+    .crystal-image1,
+    .crystal-image2,
+    .crystal-image3,
+    .crystal-image4{
+        width: 85px;
+        height: 85px;
+    }
     .container{
       width: 100%;
     }
@@ -109,18 +122,28 @@ footer{
     #wins,
     #scoreText,
     #totalSum{
-      font-size: 18px;
+      font-size: 26px;
     }
     #game-name{
-        font-size: 20px;
+        font-size: 30px;
     }
     p{
-        font-size: 12;
+        font-size: 8;
     }
     
   }
   
   @media screen and (max-width:360px){
+    body{
+        background-size: 100%;
+        }
+        .crystal-image1,
+        .crystal-image2,
+        .crystal-image3,
+        .crystal-image4{
+            width: 85px;
+        height: 85px;
+        }
     .container{
       width: 100%;
     }
@@ -132,12 +155,12 @@ footer{
     #wins,
     #scoreText,
     #totalSum{
-      font-size: 18px;
+      font-size: 26px;
     }
     #game-name{
-        font-size: 20px;
+        font-size: 30px;
     }
     p{
-        font-size: 12;
+        font-size: 8;
     } 
   }
