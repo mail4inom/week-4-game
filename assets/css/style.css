@@ -18,7 +18,9 @@ body{
 }
 #compRandomNum,
 #totalSum{
-    font-size: 100px;
+    font-size: 80px;
+    text-shadow: 4px, 4px, 10px, black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 p{
     font-size: 28px;

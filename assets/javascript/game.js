@@ -39,7 +39,7 @@ $(document).ready(function () {
     if (totalSum > compRandomNum) {
         $("#loss").html("Loss: " + loss++);
         reset();
-    } 
+    }
 }
     function reset() {
         totalSum = 0;
