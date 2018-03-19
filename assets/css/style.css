@@ -56,7 +56,7 @@ footer{
         font-size: 30px;
     }
     p{
-        font-size: 8;
+        font-size: 16px;
     }
   }
   @media screen and (max-width:768px){
@@ -82,7 +82,7 @@ footer{
         font-size: 30px;
     }
     p{
-        font-size: 8;
+        font-size: 16px;
     }
   }
   @media screen and (max-width:640px){
@@ -109,7 +109,7 @@ footer{
         font-size: 30px;
     }
     p{
-        font-size: 8;
+        font-size: 16px;
     }
   }
   @media screen and (max-width:414px){
@@ -142,7 +142,7 @@ footer{
         font-size: 30px;
     }
     p{
-        font-size: 8;
+        font-size: 16px;
     }
     
   }
@@ -177,6 +177,6 @@ footer{
         font-size: 30px;
     }
     p{
-        font-size: 8;
+        font-size: 16px;
     } 
   }
